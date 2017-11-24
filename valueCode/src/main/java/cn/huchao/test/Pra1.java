@@ -3,6 +3,7 @@ package cn.huchao.test;
 import java.io.File;
 import java.util.List;
 
+import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
 
 import cn.huchao.utils.MyMethods;
@@ -35,8 +36,9 @@ public class Pra1 {
 		}
 	}
 	public static void main(String[] args) {
-		int i =56/200;
-		System.out.println(i);
+	/*	int i =56/200;
+		System.out.println(i);*/
+		System.out.println("你好世界");
 	}
 }
 
